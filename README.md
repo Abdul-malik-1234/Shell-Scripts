@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts documentation.
+This repository contains all the shell scripts practiced till date.
