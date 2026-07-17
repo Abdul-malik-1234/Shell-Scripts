@@ -1,0 +1,29 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#ignore complete data folder
+django-notes-app/django-notes-app/data/
+
+# ignore .vscode folder
+django-notes-app/django-notes-app/.vscode
+
+# dependencies
+django-notes-app/django-notes-app/node_modules
+django-notes-app/django-notes-app/.pnp
+django-notes-app/django-notes-app/.pnp.js
+
+# testing
+django-notes-app/django-notes-app/coverage
+
+# production
+django-notes-app/django-notes-app/build
+
+# misc
+django-notes-app/django-notes-app/.DS_Store
+django-notes-app/django-notes-app/.env.local
+django-notes-app/django-notes-app/.env.development.local
+django-notes-app/django-notes-app/.env.test.local
+django-notes-app/django-notes-app/.env.production.local
+
+django-notes-app/django-notes-app/npm-debug.log*
+django-notes-app/django-notes-app/yarn-debug.log*
+django-notes-app/django-notes-app/yarn-error.log*
