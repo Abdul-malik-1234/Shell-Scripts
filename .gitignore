@@ -4,7 +4,7 @@
 django-notes-app/django-notes-app/data/
 
 #ignore complete mysqlfolder
-two-tier-flask/mysql-data/
+two-tier-flask-app/mysql-data/
 
 # ignore .vscode folder
 django-notes-app/django-notes-app/.vscode
