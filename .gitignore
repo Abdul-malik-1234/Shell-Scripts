@@ -3,6 +3,9 @@
 #ignore complete data folder
 django-notes-app/django-notes-app/data/
 
+#ignore complete mysqlfolder
+two-tier-flask/mysql-data/
+
 # ignore .vscode folder
 django-notes-app/django-notes-app/.vscode
 
